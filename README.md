@@ -26,21 +26,28 @@ __This solution works like this__
 | | |
 |-|-|
 |![iPhone-11-Pro-portrait](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11Pro_Portrait1.png)|![iPhone-11-Pro-portrait](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11Pro_Portrait2.png)|
-
-![iPhone-11-Pro-portrait](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11Pro_Portrait1.png)![iPhone-11-Pro-portrait](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11Pro_Portrait2.png)
-![iPhone-11-Pro-landscape](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11Pro_Landscape1.png)![iPhone-11-Pro-landscape](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11Pro_Landscape2.png)
+|![iPhone-11-Pro-landscape](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11Pro_Landscape1.png)|![iPhone-11-Pro-landscape](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11Pro_Landscape2.png)|
 
 ### iPhone 11 Pro Max
-![iPhone-11-Pro-Max-portrait](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11ProMax_Portrait1.png)![iPhone-11-Pro-Max-portrait](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11ProMax_Portrait2.png)
-![iPhone-11-Pro-Max-landscape](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11ProMax_Landscape1.png)![iPhone-11-Pro-Max-landscape](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11ProMax_Landscape2.png)
+
+| | |
+|-|-|
+|![iPhone-11-Pro-Max-portrait](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11ProMax_Portrait1.png)|![iPhone-11-Pro-Max-portrait](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11ProMax_Portrait2.png)|
+|![iPhone-11-Pro-Max-landscape](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11ProMax_Landscape1.png)|![iPhone-11-Pro-Max-landscape](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11ProMax_Landscape2.png)|
 
 ### iPad Pro (9.7-inch)
-![iPad-Pro-97-portrait](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPadPro97_Portrait1.png)![iPad-Pro-97-portrait](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPadPro97_Portrait2.png)
-![iPad-11-Pro-97-landscape](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPadPro97_Landscape1.png)![iPad-11-Pro-97-landscape](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPadPro97_Landscape2.png)
+
+| | |
+|-|-|
+|![iPad-Pro-97-portrait](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPadPro97_Portrait1.png)|![iPad-Pro-97-portrait](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPadPro97_Portrait2.png)|
+|![iPad-11-Pro-97-landscape](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPadPro97_Landscape1.png)|![iPad-11-Pro-97-landscape](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPadPro97_Landscape2.png)|
 
 ### iPad Pro (12.9-inch) (3rd generation)
-![iPad-Pro-12-portrait](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPadPro12_Portrait1.png)![iPad-Pro-12-portrait](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPadPro12_Portrait2.png)
-![iPad-Pro-12-landscape](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPadPro12_Landscape1.png)![iPad-Pro-12-landscape](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPadPro12_Landscape2.png)
+
+| | |
+|-|-|
+|![iPad-Pro-12-portrait](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPadPro12_Portrait1.png)|![iPad-Pro-12-portrait](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPadPro12_Portrait2.png)|
+|![iPad-Pro-12-landscape](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPadPro12_Landscape1.png)|![iPad-Pro-12-landscape](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPadPro12_Landscape2.png)|
 
 ## License
 
