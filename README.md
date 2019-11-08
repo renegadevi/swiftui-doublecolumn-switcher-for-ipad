@@ -1,6 +1,7 @@
 # SwiftUI-DoubleColumn-Switcher-for-iPad
 
-Automatically switch from Stack to DoubleColumn -NavigationView when iPad in landscape orientation is detected
+Automatically switch from Stack to DoubleColumn -NavigationView when iPad in landscape orientation is detected.
+
 
 ## About
 
@@ -19,7 +20,8 @@ __This solution works like this__
 | iPad   | Portrait    | StackNavigationView        |
 | iPad   | Landscape   | DoubleColumnNavigationView |
 
-## Screenshots 
+
+## Screenshots of Example code.
 
 ### iPhone 11 Pro
 
