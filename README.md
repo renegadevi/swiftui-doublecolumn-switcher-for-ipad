@@ -4,7 +4,7 @@ Automatically switch from Stack to DoubleColumn -NavigationView when iPad in lan
 
 ## About
 
-*Tested and works using iOS 13.2.2 with Xcode 11.2*
+*Tested and works using iOS 13.2.2 with Xcode 11.2; SwiftUI still is still in development as of now.*
 
 A issue with SwiftUI at the moment of iOS13 is that in potrait mode on the iPad it's a slide out menu and no real way to force it to always show the double column like in the settings app. The issue with this is that it's not intuitive for new users to that there's a sidebar.
 
