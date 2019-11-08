@@ -22,6 +22,10 @@ __This solution works like this__
 ## Screenshots 
 
 ### iPhone 11 Pro
+<div style="max-width: 100%">
+  <img src="https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11Pro_Portrait1.png" style="max-width: 50%;" />
+  <img src="https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11Pro_Portrait2.png" width="max-width: 50%;" /> 
+</div>
 ![iPhone-11-Pro-portrait](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11Pro_Portrait1.png)![iPhone-11-Pro-portrait](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11Pro_Portrait2.png)
 ![iPhone-11-Pro-landscape](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11Pro_Landscape1.png)![iPhone-11-Pro-landscape](https://gitlab.com/renegadevi/swiftui-doublecolumn-switcher-for-ipad/raw/master/screenshots/iPhone11Pro_Landscape2.png)
 
